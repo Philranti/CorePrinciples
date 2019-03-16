@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="DependencyInvasionPrinciple" />
+        <module name="InterfaceSegregationPrinciple" />
+        <module name="LiskovSubstitutionPrinciple" />
+        <module name="OpenClosePrinciple" />
+        <module name="PrincipleOfLeastKnowledge (PLK)" />
+        <module name="Question2" />
+        <module name="SingleResponsibilityPrinciple" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ComponentCohesionPrinciple" target="1.7" />
+      <module name="LiskovPrinciple" target="1.7" />
+      <module name="ReuseReleaseEquivalencePrinciple" target="1.7" />
+      <module name="SoftwarePrinciples" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

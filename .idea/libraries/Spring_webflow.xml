@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Spring webflow" type="spring-webflow">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/fixtures/fixtures/.mvn/wrapper/maven-wrapper.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
